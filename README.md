@@ -1,5 +1,8 @@
 # Spotiapp
 
+![image](https://user-images.githubusercontent.com/36976589/152048594-546e2ec4-62b1-4672-9747-6f48af5b4542.png)
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.2.
 
 ## Development server
